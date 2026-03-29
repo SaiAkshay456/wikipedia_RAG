@@ -1,0 +1,403 @@
+BlackRock, Inc. is an American multinational investment company. Founded in 1988, initially as an enterprise risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager,[1] with $12.5 trillion in assets under management as of 2025.[4] Headquartered in New York City, BlackRock has 70 offices in 30 countries and clients in 100 countries.[5]
+
+BlackRock is the manager of the iShares group of exchange-traded funds, and along with Fidelity, Vanguard, and State Street, it is considered one of the Big Four index fund managers.[6][7] Its Aladdin software keeps track of investment portfolios for many major financial institutions and its BlackRock Solutions division provides financial risk management services. As of 2025, BlackRock was ranked 210th on the Fortune 500 list of the largest U.S. corporations by revenue.[8]
+
+BlackRock has sought to position itself as an industry leader in environmental, social, and governance (ESG) considerations in investments.[9] The states of West Virginia,[10] Florida,[11] and Louisiana[12] have divested money from or refuse to do business with the firm because of its ESG policies. BlackRock has been criticized for investing in companies involved in fossil fuels, the arms industry, the People's Liberation Army, and human rights violations in China.
+
+History
+1988–1999
+BlackRock was founded in 1988 by Larry Fink, Robert S. Kapito, Susan Wagner, Barbara Novick, Bennett Golub, Hugh Frater, Ralph Schlosstein, and Keith Anderson[13] to provide institutional clients with asset management services from a risk-management perspective.[14] Fink, Kapito, Golub, and Novick had worked together at First Boston, where Fink and his team were pioneers in the mortgage-backed securities market in the United States.[15] During Fink's tenure, he had lost $90 million as head of First Boston. That experience was the motivation to develop what he and the others considered excellent risk management and fiduciary practices. Initially, Fink sought funding (for initial operating capital) from Peter Peterson of The Blackstone Group, who believed in Fink's vision of a firm devoted to risk management. Peterson called it Blackstone Financial Management.[16] In exchange for a 50% stake in the bond business, Blackstone initially gave Fink and his team a $5 million credit line. Within months, the business had turned profitable, and by 1989 the group's assets had quadrupled to $2.7 billion. The proportion of the stake Blackstone owned also fell to 40%, compared to Fink's staff.[16]
+
+By 1992, Blackstone had a stake of about 36% in the company, and Stephen A. Schwarzman and Fink were considering selling shares to the public.[17] The firm adopted the name BlackRock, and was managing $17 billion in assets by the end of the year. At the end of 1994, BlackRock was managing $53 billion.[18] In 1994, Schwarzman and Fink had an internal dispute over methods of compensation and equity.[17] Fink wanted to share equity with new hires, to lure talent from banks, but Schwarzman did not want to further lower Blackstone's stake.[17] They agreed to part ways, and Schwarzman sold BlackRock, a decision he later called a "heroic mistake".[17][19] In June 1994, Blackstone sold a mortgage-securities unit with $23 billion in assets to PNC Financial Services for $240 million.[20] The unit had traded mortgages and other fixed-income assets, and during the sales process it changed its name from Blackstone Financial Management to BlackRock Financial Management.[17] Schwarzman remained with Blackstone, while Fink became chairman and CEO of BlackRock.[17]
+
+1999–2009
+On October 1, 1999, BlackRock became a public company, selling shares at $14 each via an initial public offering on the New York Stock Exchange.[18][21][22] By the end of 1999, BlackRock was managing $165 billion in assets.[18] BlackRock grew both organically and by acquisition. In 2000, the firm launched BlackRock Solutions to provide risk management and investment analytics to institutional investors and other large investment managers.[23] The platform includes advisory services and technology,[24] being based on BlackRock's Aladdin System, an acronym for Asset Liability and Debt and Derivative Investment Network.[25]
+
+In August 2004, BlackRock made its first major acquisition, buying State Street Research & Management's holding company SSRM Holdings, Inc. from MetLife for $325 million in cash and $50 million in stock. The acquisition increased BlackRock's assets under management from $314 billion to $325 billion.[26] The deal included the mutual-fund business State Street Research & Management in 2005.[20]
+
+BlackRock merged with Merrill Lynch's Investment Managers division (MLIM) in 2006,[18][27] halving PNC's ownership and giving Merrill a 49.5% stake in the company.[28] In October 2007, BlackRock acquired the fund-of-funds business of Quellos Capital Management.[29][30] In April 2009, BlackRock acquired R3 Capital Management, LLC and management of its $1.5 billion fund.[31] In May 2009, BlackRock Solutions was retained by the U.S. Treasury Department[32] to analyze, unwind, and price the toxic assets that were owned by Bear Stearns, American International Group, Freddie Mac, Morgan Stanley, and other financial firms that were affected in the 2008 financial crisis.[33][34] The Federal Reserve allowed BlackRock to superintend the $130 billion-debt settlement of Bear Stearns and American International Group.[35]
+
+2010–2019
+In February 2010, to raise capital needed due to the 2008 financial crisis, Barclays sold its Barclays Global Investors (BGI) unit, which included its exchange traded fund business, iShares, to BlackRock for US$13.5 billion and Barclays acquired a near-20% stake in BlackRock.[36][37] On April 1, 2011, BlackRock was added as a component of the S&P 500 stock market index.[38][39] In 2013, Fortune listed BlackRock on its annual list of the world's 50 Most Admired Companies.[20] In 2014,[20] BlackRock's $4 trillion under management made it the "world's biggest asset manager".[40] At the end of 2014, the Sovereign Wealth Fund Institute reported that 65% of Blackrock's assets under management were made up of institutional investors.[41]
+
+By June 30, 2015, BlackRock had US$4.721 trillion of assets under management.[42] On August 26, 2015, BlackRock entered into a definitive agreement to acquire FutureAdvisor,[43] a digital wealth management provider with reported assets under management of $600 million.[44] Under the deal, FutureAdvisor would operate as a business within BlackRock Solutions (BRS).[43] BlackRock announced in November 2015 that they would wind down the BlackRock Global Ascent hedge fund after losses. The Global Ascent fund had been its only dedicated global macro fund, as BlackRock was "better known for its mutual funds and exchange traded funds." At the time, BlackRock managed $51 billion in hedge funds, with $20 billion of that in funds of hedge funds.[45]
+
+In March 2017, BlackRock, after a six-month review led by Mark Wiseman, initiated a restructuring of its $8 billion actively managed fund business, resulting in the departure of seven portfolio managers and a $25 million charge in the second quarter, replacing certain funds with quantitative investment strategies.[46] By April 2017, iShares business accounted for $1.41 trillion, or 26%, of BlackRock's total assets under management, and 37% of BlackRock's base fee income.[47] Also in April 2017, BlackRock backed the inclusion of mainland Chinese shares in MSCI's global index for the first time.[48]
+
+2020–present
+In January 2020, PNC Financial Services sold its stake in BlackRock for $14.4 billion.[49] In March 2020, the Federal Reserve chose BlackRock to manage two corporate bond-buying programs in response to the COVID-19 pandemic.[35][50][51] This also included the $500 billion Primary Market Corporate Credit Facility (PMCCF) and the Secondary Market Corporate Credit Facility (SMCCF), as well as purchase by the Federal Reserve of commercial mortgage-backed securities (CMBS) guaranteed by Government National Mortgage Association, Fannie Mae, or Freddie Mac.[35][50][51] In August 2020, BlackRock received approval from the China Securities Regulatory Commission to set up a mutual fund business in the country. This made BlackRock the first global asset manager to get consent from the Chinese government to start operations in the country.[52][53]
+
+In October 2021 BlackRock launched its Voting Choice program, enabling institutional clients invested in index funds to participate in shareholder voting.[54][55] Eligible clients can vote all issues, vote only on some issues, select from 14 different voting policies,[56] or allow BlackRock's investment stewardship team to vote for them.[55] BlackRock Investment Stewardship is a team of approximately 70 analysts[57] who engage with the boards and management teams of companies, and vote shares, on the behalf of non-voting clients.[58]
+
+In November 2021, BlackRock lowered its investment in India while increasing investment in China. The firm maintains a dedicated India Fund, through which it invests in Indian start-ups Byju's, Paytm, and Pine Labs.[59][60] On December 28, 2022, it was announced that BlackRock and Volodymyr Zelensky had coordinated a role for the company in the reconstruction of Ukraine.[61][62] This was after BlackRock CEO Larry Fink and Zelensky met over a video conference in September, 2022.[61] In July 2025, Bloomberg reported that BlackRock had paused efforts earlier in the year to line up investors for a proposed Ukraine recovery fund amid increased uncertainty. The company said it had completed its pro bono advisory work in 2024 and no longer had an active mandate.[63] In April 2023, the company was hired to sell $114 billion in assets of Signature Bank and Silicon Valley Bank after the 2023 United States banking crisis.[64][65] In June 2023, BlackRock filed an application with the United States Securities and Exchange Commission (SEC) to launch a Spot Bitcoin Exchange-Traded Fund (ETF), and in November 2023 it filed another application for a Spot Ethereum ETF. The spot bitcoin ETF filing and 10 others were approved on January 10, 2024.[66] On January 19, 2024, the iShares Bitcoin Trust ETF (IBIT) was the first spot bitcoin ETF to reach $1 billion in volume.[67]
+
+In July 2023, the company appointed Amin H. Nasser to its board.[68] Nasser, the chief executive officer of Saudi Aramco, the world's largest oil company, will fill BlackRock's board vacancy left by Bader Alsaad in 2024.[69] In July 2023, Jio Financial Services (JFS) entered the asset management business through a 50:50 joint venture with BlackRock, named Jio BlackRock.[70] In August 2023, BlackRock signed an agreement with New Zealand to establish a NZ$2 billion investment fund for solar, wind, green hydrogen, battery storage, and EV charging projects as part of its goal of reaching 100% renewable energy by 2030.[71][72] In January 2024, BlackRock announced that it would acquire the investment fund Global Infrastructure Partners for $12.5 billion.[73][74][75] BlackRock agreed to pay $3 billion in cash and 12 million of its own shares as part of the deal to buy GIP. In March 2024, BlackRock launched their first tokenized fund, the BlackRock USD Institutional Digital Liquidity Fund (BUIDL) on Ethereum, which represents investments in U.S. Treasury bills and repo agreements. The fund secured $245 million in assets in the first week.[76] On July 15, 2024, BlackRock removed from circulation an advertisement filmed in 2022 that briefly featured Thomas Matthew Crooks, the gunman in the attempted assassination of Donald Trump.[77][78] The firm expanded its headquarters at 50 Hudson Yards in mid-2024.[79]
+
+In March 2025, BlackRock launched its first European bitcoin exchange-traded product, the iShares Bitcoin ETP, domiciled in Switzerland and listed in Paris, Amsterdam, and Frankfurt.[80] In the United States, BlackRock's iShares Bitcoin Trust (IBIT) launched in January 2024, and by May 2024, was reported as the world's largest bitcoin fund, with nearly $20 billion in assets.[81]
+
+In April 2025, BlackRock filed to the SEC to launch a new share class of its $150 billion money market fund that is registered on a blockchain.[82]
+
+In June 2025, BlackRock launched the iShares Texas Equity ETF (TEXN), a Texas‑focused fund the firm said would invest in companies headquartered in the state.[83]
+
+On 24 February 2026, BlackRock acquired a 5.01% stake in HLB, a South Korean biotech firm.[84]
+
+In March 2026, BlackRock announced that it was limiting withdrawals from a private credit fund.[85][86]
+
+Finances
+In 2020, the non-profit American Economic Liberties Project issued a report highlighting the fact that "the 'Big Three' asset management firms – BlackRock, Vanguard and State Street – manage over $15 trillion in combined global assets under management, an amount equivalent to more than three-quarters of U.S. gross domestic product."[87] The report called for structural reforms and better regulation of the financial markets. In 2021, BlackRock managed over $10 trillion in assets under management, about 40% of the GDP of the United States (nominal $25.347 trillion in 2022).[88]
+
+BlackRock reported $12.53 trillion in assets under management as of June 30, 2025.[4]
+
+Year[89]	Revenue
+(million USD)	Net income
+(million USD)	Total assets
+(million USD)	AUM[90]
+(million USD)	Price per
+share (USD)	Employees
+2005	1,191	234	1,848		62.85	2,151
+2006	2,098	323	20,469		103.75	5,113
+2007	4,845	993	22,561		128.69	5,952
+2008	5,064	784	19,924	1,310,000	144.07	5,341
+2009	4,700	875	178,124	3,350,000	136.79	8,629
+2010	8,612	2,063	178,459	3,561,000	145.85	9,127
+2011	9,081	2,337	179,896	3,513,000	148.27	10,100
+2012	9,337	2,458	200,451	3,792,000	158.53	10,500
+2013	10,180	2,932	219,873	4,325,000	238.52	11,400
+2014	11,081	3,294	239,792	4,651,895	289.80	12,200
+2015	11,401	3,345	225,261	4,645,412	322.68	13,000
+2016	12,261	3,168	220,177	5,147,852	334.16	13,000
+2017	13,600	4,952	220,217	6,288,195	414.60	13,900
+2018	14,198	4,305	159,573	5,975,818	492.98	14,900
+2019	14,539	4,476	168,622	7,430,000	448.22	16,200
+2020	16,205	4,932	176,982	8,677,000	558.56	16,500
+2021	19,169	5,901	152,648	10,010,143	913.76	18,400
+2022	17,873	5,178	117,628	8,594,485	708.63	19,800
+2023	17,859	5,502	123,211	10,008,995	811.80	19,800
+2024	20,407	6,369	138,615	11,551,251	1,025.11	21,100
+Mergers and acquisitions
+Number	Acquisition date	Company	Country	Price (USD)	Used as or integrated with	Refs.
+1	February 10, 2006	Merrill's Investment Managers division (MLIM)	 United States	$9.3 billion	Retail and international presence	[91]
+2	January 12, 2009	Barclays Global Investor	$13.5 billion	ETF	[37]
+3	January 15, 2010	Helix Financial Group	 –	CRE	[92][93]
+4	August 25, 2015	FutureAdvisor	$150 million	Robo-advisory	[94][95]
+5	April 18, 2016	Money market fund business of Bank of America	 –	$80 billion in assets in money market funds	[96]
+6	February 1, 2017	Energy infrastructure investment platform of First Reserve Corporation	 –	Funds investing in energy	[97]
+7	June 9, 2017	Cachematrix	 –	Liquidity management	[98]
+8	January 8, 2018	Tennenbaum Capital Partners	 –	Private credit	[99]
+9	September 24, 2018	Asset Management Business of Citibanamex	 Mexico	$350 million	Fixed income, equity, and multi-asset funds holding	[100][101]
+10	October 5, 2019	eFront	 France	$1.3 billion in cash	Alternative investment management software	[102][103]
+11	February 1, 2021	Aperio	 United States	$1.05 billion in cash	A provider of tax-optimized index equity separately managed accounts	[104][105]
+12	June 8, 2023	Kreos	 United Kingdom	 –	Private credit	[106]
+13	January 12, 2024	Global Infrastructure Partners	 United States	$12.5 billion ($3 billion in cash, rest in shares)	Infrastructure assets	[74]
+14	July 1, 2024	Preqin	 United Kingdom	$3.2 billion	Private market data provider	[107]
+15	December 3, 2024	HPS Investment Partners	 United States	$12 billion ($9.3 billion in stock, $3 billion in five years subject to targets)	Private credit	[108]
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by editing the page to add missing items, with references to reliable sources.
+Ownership
+In March 2018, PNC was BlackRock's largest shareholder with 25% of all shares, but announced in May 2020 that it intended to sell all shares worth $17 billion.[109] Over 80% of BlackRock is owned by institutional investors. The 10 largest shareholders, as of June 30, 2024, are listed in the following table:[110]
+
+Shareholder	Country	Shares	in %
+The Vanguard Group	 United States	13,215,837	9.08%
+BlackRock Inc.	9,515,504	7.02%
+State Street Corporation	5,940,826	4.95%
+Temasek Holdings Ltd.	 Singapore	5,133,360	4.28%
+Bank of America Corp.	 United States	5,133,311	4.28%
+Capital Research Global Investors	4,532,590	3.78%
+Morgan Stanley	4,342,978	3.62%
+Charles Schwab Corporation	3,768,467	3.14%
+Capital World Investors	3,218,145	2.68%
+Geode Capital Management	2,786,395	2.32%
+Sum of top 10		44,371,576	36.07%
+Total		120,006,939	100%
+Controversies
+Influence and power
+Due to its power and the sheer size and scope of its financial assets and activities, BlackRock has been called the world's largest shadow bank by The Economist and Basler Zeitung.[111][40] In 2020, U.S. Representatives Katie Porter and Chuy García proposed a U.S. House bill aiming to restrain BlackRock and other shadow banks.[112] On March 4, 2021, U.S. Senator Elizabeth Warren suggested that BlackRock should be designated "too big to fail" and regulated accordingly.[113]
+
+BlackRock invests the funds of its clients (for example, the owners of iShares exchange-traded fund units) in numerous publicly traded companies, some of which compete with each other.[114][115][116] Because of the size of BlackRock's funds, the company is among the top shareholders of many companies. BlackRock states these shares are ultimately owned by the company's clients, not by BlackRock itself—a view shared by multiple independent academics—but acknowledges it can exercise shareholder votes on behalf of these clients, in many cases without client input.[117] In the 2020s, the company took steps to allow institutional investors to participate in shareholder voting in nearly half of BlackRock's equity index assets.[54]
+
+BlackRock has been the subject of conspiracy theories, including one in which BlackRock is the owner of both Fox News and Dominion Voting Systems. While it is true that BlackRock owns 15% of Fox Corporation,[118] Snopes described the whole claim as "false" and PolitiFact described it as "mostly false" because of the absence of participation of BlackRock into Dominion Voting Systems.[119][120] Some BlackRock conspiracy theories have incorporated antisemitism, such as the conspiracy theory that Jewish people, including BlackRock founder Robert Kapito, are part of a cabal responsible for COVID-19 and a "COVID agenda".[121]
+
+Common ownership
+"Common ownership" is when competitors within a market are commonly owned. In other words, these competitors can have the same powerful shareholders if their shares trade publicly. Common ownership has the potential to cause harm because it reduces market competition, which can be bad for consumers and the economy. Common ownership can also lead to higher pay for CEOs, even as competition between the firms is reduced.[122] In response to a widely cited research paper that showed that common ownership raises prices,[123] BlackRock issued a white paper calling the mechanism "vague and implausible". At the same time, BlackRock's 2023 SEC annual report identified common ownership as a potential business risk, noting that "in 2023, the FTC and DOJ released new merger guidelines recognizing that common ownership may reduce competitive incentives" and that "policy solutions could, in turn, adversely affect BlackRock." The company disclosed that common ownership "may be given greater consideration in regulatory investigations, studies, rule proposals, policy decisions and/or the scrutiny of mergers and acquisitions."[124]
+
+Environmental, social and corporate governance investing
+Main article: Environmental, social and corporate governance
+In 2017, BlackRock expanded its environmental, social and corporate governance (ESG) projects with new staff and products.[125][126][127][128][129] BlackRock started drawing attention to environmental and diversity issues by means of official letters to CEOs and shareholder votes together with activist investors or investor networks such as the Carbon Disclosure Project, which in 2017 backed a shareholder resolution for ExxonMobil to act on climate change.[130][131][132] In 2018, it asked Russell 1000 companies to improve gender diversity on their board of directors if they had fewer than two women on them.[133]
+
+In August 2021, a former BlackRock executive who had served as the company's first global chief investment officer for sustainable investing, said he thought the firm's ESG investing was a "dangerous placebo that harms the public interest." The former executive said that financial institutions are motivated to engage in ESG investing because ESG products have higher fees, which in turn increase company profits.[134] In October 2021, The Wall Street Journal editorial board wrote that BlackRock was pushing the U.S. Securities and Exchange Commission to adopt rules requiring private companies to publicly disclose their climate impact, the diversity of their boards of directors, and other metrics. The editorial board opined that "ESG mandates, which also carry substantial litigation and reputation risks, will cause many companies to shun public markets. This would hurt stock exchanges and asset managers, but most of all retail investors."[135]
+
+In January 2022, BlackRock founder and CEO Larry Fink defended the company's focus on ESG investing, pushing back "against accusations the asset manager was using its heft and influence to support a politically correct or progressive agenda."[136] Fink said the practice of ESG "is not woke".[137] BlackRock's emphasis on ESG has drawn criticism as "either bowing to anti-business interests" or being "merely marketing".[138] In a talk at the Aspen Ideas Festival in June 2023, BlackRock CEO Larry Fink said he has stopped using the term "ESG" because the term has been "weaponized". According to an Axios reporter, Fink said, "I'm ashamed of being part of this conversation." Later, according to Axios, Fink said, "I never said I was ashamed. I'm not ashamed. I do believe in conscientious capitalism."[139]
+
+In July 2023, BlackRock announced that it would allow retail investors a proxy vote in its biggest ETF from 2024. The move was initiated in the context of claims from US Republicans that BlackRock is systematically trying to push a 'woke agenda' through its pro-ESG activities. Under the plan, investors in BlackRock's iShares Core S&P 500 ETF will be asked to make choices from seven different general policies ranging from voting generally with BlackRock's management, to environmental, social and governance factors or prioritizing Catholic values. Investors will not be able to vote on specific companies.[140] The Editorial Board at The Wall Street Journal argued that it amounted to a "false voting choice" since almost all of the pre-selected voting policies are devised by the ESG-aligned proxy advisories Glass Lewis and Institutional Shareholder Services.[141]
+
+Investments in contributors to climate change
+
+Environmental activists, including global interfaith organization GreenFaith and Extinction Rebellion, protest BlackRock's shareholder meeting on May 31, 2022.
+As of December 2018, BlackRock was the world's largest investor in coal-fired power stations, holding shares worth $11 billion in 56 companies in the industry.[142] BlackRock owned more oil, gas, and thermal coal reserves than any other investment management company with total reserves amounting to 9.5 gigatonnes of CO2 emissions or 30% of total energy-related emissions from 2017.[143] Environmental groups including the Sierra Club,[144] as well as Amazon Watch,[145] launched a campaign in September 2018 called "BlackRock's Big Problem",[146] claiming that BlackRock is the "biggest driver of climate destruction on the planet", in part due to its opposition to fossil fuel divestment.[146]
+
+In 2019, climate activists carried out street theatre and glued themselves to the door of the company's London offices.[147] On January 10, 2020, a group of climate activists rushed inside the Paris offices of BlackRock France, painting walls and floors with warnings and accusations on the responsibility of the company in the effects of global warming.[148] In May 2019, BlackRock was criticized for the environmental impact of its holdings as it was a major shareholder in every oil supermajor except Total S.A. and in 7 of the 10 biggest coal producers.[149]
+
+On January 14, 2020, the company shifted its investment policy; BlackRock CEO Larry Fink said that environmental sustainability would be a key goal for investment decisions.[150] BlackRock announced that it would sell $500 million worth of coal-related assets, and created funds that would not invest in companies profiting from fossil fuels.[151][150] Nonetheless, BlackRock's support for shareholder resolutions requesting climate risk disclosure fell from 25% in 2019 to 14% in 2020.[152] BlackRock has also been criticized regarding climate change inaction and deforestation in the Amazon rainforest.[153][154] According to The New Republic, BlackRock "has positioned itself as the good guy on Wall Street, and its executives as a crew of mild-mannered money managers who understand the risks of the climate crisis and the importance of diversity. But those commitments, critics say, only extend so far into the firm's day-to-day operations."[112] According to IESE, BlackRock has indeed influenced polluting companies to lower their carbon emissions. The study showed that companies who met with BlackRock's CEO Larry Fink had lower CO2 emissions the following year.[155] Another study showed that Blackrock has mislabelled some investment funds, having only 9% out of 82 funds labelled as sustainable which did not invest in fossil fuel companies.[156]
+
+Investments in gun manufacturers
+In May 2018, anti-gun protesters held a demonstration outside the company's annual general meeting in Manhattan.[157] After discussions with firearms manufacturers and distributors, on April 5, 2018, BlackRock introduced two new exchange-traded funds (ETFs) that exclude stocks of gun makers and large gun retailers such as Walmart, Dick's Sporting Goods, Kroger, Sturm Ruger, American Outdoor Brands, and Vista Outdoor, and removed the stocks from seven existing ESG funds.[158][159][160]
+
+BlackRock study on integrating ESG into banking rules
+The European Ombudsman opened an inquiry in May 2020 to inspect the commission's file on the European Commission's decision to award a contract to BlackRock to carry out a study on integrating environmental, social and governance risks and objectives into EU banking rules ('the prudential framework'). European Parliament members questioned the impartiality of BlackRock given its investments in the sector.[161][162]
+
+U.S. states refusing to do business with BlackRock due to ESG policies
+Riley Moore, the state treasurer of West Virginia, said in June 2022 that BlackRock and five other financial institutions would no longer be allowed to do business with the state of West Virginia because of the company's advocacy against the fossil fuel industry.[163] In October 2022, Louisiana removed $794 million from BlackRock due to the company's support of ESG and green energy.[164] In December 2022, Jimmy Patronis, the chief financial officer of Florida, announced that the government of Florida would be divesting $2 billion worth of investments under management by BlackRock due to the firm's move to strengthen ESG standards and ESG policies.[165][166] BlackRock later responded to the announcement with a statement stating that the divestment would place politics over investor interest.[167]
+
+Criticism of investments in China
+In August 2021, BlackRock set up its first mutual fund in China after raising over one billion dollars from 111,000 Chinese investors. BlackRock became the first foreign-owned company allowed by the Chinese government to operate a wholly owned business in China's mutual fund industry.[168][169][170] Writing in The Wall Street Journal, George Soros described BlackRock's initiative in China as a "tragic mistake" that would "damage the national security interests of the U.S. and other democracies."[171][172]
+
+In October 2021, conservative non-profit group Consumers' Research launched an ad campaign criticizing BlackRock's relationship with the Chinese government in response to BlackRock's climate change activism,[173] as part of Consumers' Research's campaign against perceived "wokeness" in American corporations.[174] In December 2021, it was reported that BlackRock was an investor in two companies that had been blacklisted by the US government accusing China of human rights abuses against the Uyghurs in Xinjiang. In one case (Hikvision) BlackRock increased its level of investment after the company's blacklisting.[175]
+
+In August 2023, the US House of Representatives' Select Committee on the Chinese Communist Party initiated an investigation into the firm's investments in Chinese companies accused of violating human rights and aiding the People's Liberation Army.[176][177][178] In April 2024, a committee report said index inclusion and fund investments had directed at least $1.9 billion into entities "blacklisted" by U.S. authorities. The committee noted the activity was legal under then‑current rules and urged policy changes. BlackRock said its products comply with U.S. law and client mandates.[179]
+
+In February 2025, a group of 17 U.S. state attorneys general criticized BlackRock for making improper or inadequate disclosures about investments in China.[180]
+
+Ties with Federal Reserve
+BlackRock was scrutinized for allegedly taking advantage of its close ties with the Federal Reserve during the COVID-19 pandemic response efforts.[181][182][183] In June 2020, The New Republic wrote that BlackRock "was having a very good pandemic" and was casting "itself as socially responsible while contributing to the climate catastrophe, evading regulatory scrutiny, and angling to influence [a potential] Biden administration."[112] The Financial Times described BlackRock as having secured a prominent advisory role in the Fed's post-COVID asset purchase program, prompting concerns over whether BlackRock would use its influence to encourage the Fed to purchase BlackRock products; during the Fed's 2020 quantitative easing program, BlackRock's corporate bond ETF received $4.3 billion in new investment, compared to the respective $33 million and $15 million received by BlackRock's competitors Vanguard Group and State Street.[184] BlackRock pledged to forgo profits from the Fed's program other than its financial markets advisory fees. It pledged additional income earned on its bond ETFs as a result of the buying program be returned to the Federal Reserve.[184] On May 26, 2020, the contract was released publicly. The New York Times wrote about the contract that BlackRock "will earn no more than $7.75 million per year for the main bond portfolio it will manage. It will also be prohibited from earning fees on the sale of bond-backed exchange traded funds, a segment of the market it dominates."[185]
+
+In January 2026, U.S. Treasury Secretary Scott Bessent confirmed that BlackRock's CIO of Global Fixed Income, Rick Rieder, is one of four short-listed candidates under consideration by President Trump to succeed Federal Reserve Chair Jerome Powell when his term ends in May 2026.[186]
+
+Key people
+As of 2025, BlackRock had an 18-member board of directors, including:[187]
+
+Larry Fink, founder, chairman and CEO[34]
+Greg Fleming
+William E. Ford
+Fabrizio Freda
+Margaret "Peggy" L. Johnson
+Robert S. Kapito – founder and co-president[188]
+Cheryl D. Mills
+Kathleen Murphy
+Amin H. Nasser
+Gordon M. Nixon
+Adebayo "Bayo" Ogunlesi
+Charles H. Robbins
+Hans V. Vestberg
+Susan Wagner – founder and member of the board[189]
+Mark Wilson
+People who have previously served on the BlackRock board of directors include:
+
+Brian Deese – former Global Head of Sustainable Investing[190]
+Blake Grossman – former vice chairman[191]
+See also
+flag	New York City portal
+icon	Business and economics portal
+Companies listed on the New York Stock Exchange (B)
+Globalism
+Investment trust
+List of CDO managers
+List of S&P 500 companies
+List of asset management firms
+List of companies based in New York City
+List of hedge funds
+Sovereign Wealth Fund Institute
+References
+ "BlackRock, Inc. 2025 Form 10-K Annual Report". U.S. Securities and Exchange Commission. February 25, 2026.
+ Gledhill, Alice; Lacqua, Francine (October 9, 2023). "BlackRock's Hildebrand Wants IMF to Address New Economic Reality". Bloomberg News. Archived from the original on January 6, 2024. Retrieved December 1, 2023.
+ Rodda, Caroline (January 15, 2025), BlackRock Reports Full Year 2024 (PDF), BlackRock, pp. 1, 2, retrieved January 27, 2025
+ Sen, Anirban; Bhandari, Ateev (July 15, 2025). "BlackRock shares slump even as assets hit record $12.5 trillion on market rally". Reuters. Retrieved September 27, 2025.
+ About Us, BlackRock, retrieved January 24, 2025
+ Bebchuk, Lucian; Hirst, Scott (December 2019). "Index Funds and the Future of Corporate Governance: Theory, Evidence, and Policy". Columbia Law Review. 119 (8): 2029–2146. SSRN 3282794. Archived from the original on November 29, 2022. Retrieved December 9, 2022.
+ McLaughlin, David; Massa, Annie (January 9, 2020). "The Hidden Dangers of the Great Index Fund Takeover". Bloomberg Businessweek. Archived from the original on June 7, 2021. Retrieved June 7, 2021.
+ "BlackRock". Fortune. Retrieved December 12, 2025.
+ Binnie, Isla (June 26, 2023). "BlackRock's Fink says he's stopped using 'weaponised' term ESG". Reuters. Retrieved July 19, 2024.
+ "West Virginia Treasury Drops BlackRock Over Stance on Climate Risk". Institutional Investor. January 18, 2022. Retrieved November 26, 2024.
+ Downey, Renzo (December 1, 2022). "Florida divests $2B from BlackRock as movement against woke investing matures". Florida Politics. Retrieved November 26, 2024.
+ Muller, Wesley (October 6, 2022). "Treasurer pulls Louisiana investments out of BlackRock • Louisiana Illuminator". Louisiana Illuminator. Retrieved November 26, 2024.
+ Appell, Douglas (July 9, 2012). "BlackRock departures spur talk about Fink's future". Pensions & Investments. Archived from the original on April 15, 2019. Retrieved April 15, 2019.
+ "The rise of BlackRock". The Economist. December 5, 2013. ISSN 0013-0613. Archived from the original on May 4, 2022. Retrieved April 15, 2019.
+ "Larry Fink Q&A: "I Don't Identify as Powerful"". Bloomberg.com. Bloomberg. Archived from the original on April 30, 2022. Retrieved April 15, 2019.
+ Carey, David; Morris, John E. (2012). King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone. Crown Publishing Group. p. 59. ISBN 978-0307886026. Archived from the original on February 24, 2024. Retrieved April 11, 2019.
+ Banerjee, Devin (September 30, 2013). "Schwarzman Says Selling BlackRock Was 'Heroic' Mistake". Bloomberg News. Archived from the original on December 16, 2021. Retrieved March 5, 2017.
+ "History". BlackRock. Archived from the original on May 16, 2018. Retrieved April 7, 2023.
+ Foley, John; Cox, Rob (December 23, 2019). "BlackRock is Wall Street's object of fantasy M&A". Reuters. Archived from the original on May 1, 2022. Retrieved October 26, 2021.
+ Loomis, Carol J. (July 7, 2014). "BlackRock: The $4.3 trillion force". Fortune. Archived from the original on July 4, 2019. Retrieved April 7, 2023.
+ "Here come the IPOs". CNN. September 26, 1999. Archived from the original on April 8, 2023. Retrieved April 7, 2023.
+ Agnew, Harriet (October 10, 2021). "BlackRock: 'the journey of a single man'". Financial Times. Archived from the original on January 19, 2024. Retrieved January 19, 2024.
+ "BlackRock launched BlackRock Solutions to provide risk management and..." Pensions & Investments. August 16, 2000. Retrieved March 14, 2025.
+ Segal, Julie (December 21, 2011). "BlackRock Is Remaking the Capital Markets". Institutional Investor. Retrieved March 14, 2025.
+ Kimes, Mina (October 11, 2012). "BlackRock's boy wonder". Fortune. Retrieved March 14, 2025.
+ "BlackRock Acquiring State Street Research from MetLife" (Press release). Business Wire. August 24, 2004. Archived from the original on January 29, 2021. Retrieved September 7, 2018.
+ "BlackRock and a hard place". The Economist. February 16, 2006. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ Spence, John (October 2, 2006). "BlackRock, Merrill fund unit complete merger". MarketWatch. Archived from the original on May 1, 2022. Retrieved April 11, 2019.
+ "BlackRock to Buy Quellos Fund of Funds Business". CNBC. Reuters. June 26, 2007. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ DeSilver, Drew (June 27, 2007). "Quellos is selling unit to BlackRock in $1.72 billion deal". The Seattle Times. Archived from the original on June 15, 2021. Retrieved March 10, 2020.
+ "BlackRock to Acquire R3 Capital". The New York Times. April 17, 2009. Archived from the original on May 2, 2022. Retrieved May 9, 2017.
+ Kolhatkar, Sheelah (December 9, 2010). "Fink Builds BlackRock Powerhouse Without Goldman Sachs Backlash". Bloomberg News. Archived from the original on October 22, 2014. Retrieved March 5, 2017.
+ Rappaport, Liz; Craig, Susanne (May 19, 2009). "BlackRock Wears Multiple Hats". The Wall Street Journal. ISSN 0099-9660. Archived from the original on May 1, 2022. Retrieved January 24, 2019.
+ Andrews, Suzanna. Larry Fink's $12 Trillion Shadow Archived 28 February 2011 at the Wayback Machine, Vanity Fair, April 2010: "There is little doubt among the financial establishment in Washington and on Wall Street that BlackRock was the best choice to handle the government's problems."
+ Annie Massa. Why BlackRock Has a Role in the Fed Bond-Buying Spree, The Washington Post, 22 May 2020
+ "BlackRock wraps up merger with Barclays Global Investors". Associated Press. February 16, 2010. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "US giant BlackRock buys arm of Barclays bank". The Guardian. June 12, 2009. Archived from the original on May 1, 2022. Retrieved May 8, 2017.
+ "BlackRock to join S&P 500 index". Reuters. March 29, 2011. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "BlackRock to join S&P 500 index, replacing Genzyme". The Boston Globe. March 29, 2011. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "Shadow and substance". The Economist. May 10, 2014. Archived from the original on February 1, 2018. Retrieved August 24, 2017.
+ "Is BlackRock Too Big". Sovereign Wealth Fund Institute. n.d. Archived from the original on January 29, 2021. Retrieved February 9, 2015.
+ "BlackRock profit falls as shift from stocks hits fee revenue". Reuters. July 14, 2016. Archived from the original on November 8, 2020. Retrieved January 15, 2019.
+ "BlackRock to Acquire FutureAdvisor". Business Wire (Press release). BlackRock. August 26, 2015. Archived from the original on June 24, 2023. Retrieved August 26, 2015.
+ Tepper, Fitz (June 24, 2015). "YC Alum FutureAdvisor Is Now Managing $600 Million In Assets". TechCrunch. Archived from the original on May 1, 2022. Retrieved September 12, 2015.
+ Stevenson, Alexandra (November 18, 2015). "BlackRock to Wind Down Macro Hedge Fund". The New York Times. ISSN 0362-4331. Archived from the original on May 3, 2022. Retrieved November 19, 2015.
+ "BlackRock cuts ranks of stockpicking fund managers". Financial Times. March 27, 2017. Archived from the original on March 29, 2017. Retrieved March 30, 2017.
+ Foley, Stephen (April 19, 2017). "BlackRock assets under management hit $5.4tn on record ETF inflows". Financial Times. Archived from the original on April 30, 2017. Retrieved May 10, 2017.
+ Hughes, Jennifer (April 20, 2017). "BlackRock backs mainland China shares for MSCI benchmarks". Financial Times. Archived from the original on April 23, 2017. Retrieved May 10, 2017.
+ Sabatini, Patricia (May 15, 2020). "PNC sold its shares to Blackrock stake for $14.4 billion". Pittsburgh Post-Gazette. Archived from the original on July 30, 2022. Retrieved March 4, 2021.
+ Sophie Baker. Fed chooses BlackRock for pandemic support programs Archived 23 January 2021 at the Wayback Machine, Pensions & Investments, 25 March 2020
+ Jonnelle Marte. Fed opens primary market corporate bond facility Archived 31 January 2021 at the Wayback Machine, Reuters, 29 June 2020
+ Zacks Equity Research (September 2, 2020). "BlackRock Gets Nod to Set Up Mutual Fund Business in China (Revised)". Nasdaq. Archived from the original on May 1, 2022. Retrieved September 16, 2020.
+ "BlackRock Gets Nod to Set Up Mutual Fund Business in China (Revised)". news.yahoo.com. September 7, 2020. Archived from the original on September 7, 2021. Retrieved September 16, 2020.
+ Jessop, Simon (June 12, 2022). "BlackRock extends AGM vote choice to more equity index clients". Reuters. Retrieved March 14, 2025.
+ Brush, Silla (June 12, 2022). "BlackRock Gives Clients Greater Voting Choice Amid ESG Scrutiny". Bloomberg News. Retrieved March 14, 2025.
+ Masters, Brooke (November 2, 2022). "BlackRock opens door for retail investors to vote in proxy battles". Financial Times. Retrieved March 14, 2025.
+ Au-Yeung, Angel (June 18, 2022). "The 70 BlackRock Analysts Who Speak for Millions of Shareholders". Wall Street Journal. Retrieved March 14, 2025.
+ Clifford, Catherine (May 11, 2022). "Blackrock to vote for fewer climate shareholder provisions in 2022 than 2021". CNBC. Retrieved March 14, 2025.
+ "World's biggest asset manager BlackRock trimming investments in India, more optimistic on China". ThePrint. November 23, 2021. Archived from the original on May 1, 2022. Retrieved March 24, 2022.
+ "BlackRock says it's time to buy China stocks and trim India exposure: Report". Business Today. November 23, 2021. Archived from the original on March 24, 2022. Retrieved March 24, 2022.
+ Smith, Elliot (December 28, 2022). "Zelenskyy, BlackRock CEO Fink agree to coordinate Ukraine investment". CNBC. Archived from the original on December 30, 2022.
+ Schonfeld, Zach (December 28, 2022). "Zelensky agrees to Ukraine rebuild investment with BlackRock CEO". The Hill. Archived from the original on December 29, 2022.
+ Leonard, Jenny; Donato, Paolo Mancini; Kehnscherper, Leonard (July 5, 2025). "BlackRock Halted Ukraine Fund Talks After Trump's Election Win". Bloomberg. Retrieved July 8, 2025.
+ Reichl, Dan; Brush, Silla (April 5, 2023). "BlackRock to Sell $114 Billion of Failed Banks' Securities". Bloomberg News. Archived from the original on April 8, 2023. Retrieved April 7, 2023.
+ Hughes, Jennifer; Masters, Brooke (April 5, 2023). "BlackRock to manage $114bn of asset disposals after US bank failures". Financial Times. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ Yue, Frances. "BlackRock is applying for a spot bitcoin ETF. Here's why it matters to the crypto industry". Market Watch. Archived from the original on December 7, 2023. Retrieved December 6, 2023.
+ Brewster, Lucy (January 19, 2024). "Spot Bitcoin ETF Inflows Soar; BlackRock Fund Passes $1 Bln". etf.com. Archived from the original on February 28, 2024. Retrieved February 28, 2024.
+ "BlackRock Names Aramco CEO Amin Nasser to Its Board of Directors". Bloomberg.com. July 17, 2023. Archived from the original on February 24, 2024. Retrieved July 19, 2023.
+ Grover, Natalie (July 17, 2023). "BlackRock names Aramco boss to board". Reuters. Retrieved September 25, 2024.
+ "India's Jio Financial Services, BlackRock to launch asset management venture". Reuters. July 26, 2023. Retrieved August 11, 2025.
+ Hipkins, Chris; Woods, Megan (August 8, 2023). "First of its kind climate fund to back 100% renewable energy". Beehive.govt.nz. New Zealand Government. Archived from the original on October 10, 2023. Retrieved October 14, 2023.
+ Gibson, Eloise (August 9, 2023). "Government partners with US investment giant BlackRock on 2bn fund for solar, wind, hydrogen". Stuff. Archived from the original on August 27, 2023. Retrieved October 14, 2023.
+ "BlackRock Agrees to Acquire GIP, Creating a World Leading Infrastructure Private Markets Investment Platform". Global Infrastructure Partners. January 12, 2024. Retrieved January 12, 2024.
+ "BlackRock strikes $12.5 bln deal for Global Infrastructure Partners". Reuters. January 12, 2024.
+ "BlackRock CEO Larry Fink on GIP deal: The future in private markets will be infrastructure". Youtube – CNBC Television. January 12, 2024. Archived from the original on January 12, 2024. Retrieved January 12, 2024.
+ "BlackRock Launches Its First Tokenized Fund, BUIDL, on the Ethereum Network". Retrieved May 27, 2024.
+ Victoria Cavaliere, Bloomberg (July 14, 2024). "Trump shooter was once featured in a BlackRock ad". Fortune. Retrieved July 16, 2024.
+ "BlackRock says suspect from Trump rally appeared in a 2022 ad". Reuters. July 15, 2024. Retrieved July 16, 2024.
+ Wong, Natalie (July 31, 2024). "BlackRock Expands New York Offices at Related's 50 Hudson Yards". Bloomberg.com. Retrieved July 31, 2024.
+ Withers, Iain (March 25, 2025). "BlackRock launches first bitcoin product in Europe". Reuters. Retrieved September 27, 2025.
+ McGee, Suzanne (May 29, 2024). "BlackRock's ETF becomes largest bitcoin fund in world, Bloomberg News reports". Reuters. Retrieved September 27, 2025.
+ Lee, Isabelle (April 30, 2025). "BlackRock Brings Blockchain Push to a $150 Billion Treasury Fund". Bloomberg. Retrieved May 3, 2025.
+ Saini, Manya (June 24, 2025). "BlackRock rolls out Texas ETF as Lone Star State draws capital, companies". Reuters. Retrieved September 27, 2025.
+ "Tech in Asia - Connecting Asia's startup ecosystem". www.techinasia.com. Retrieved March 6, 2026.
+ "BlackRock fund limits withdrawals as redemptions rattle private credit". reuters.
+ "BlackRock Shares Tumble Over 7% After Firm Limits Withdrawals From Private Credit Fund". forbes.
+ The New Money Trust: How Large Money Managers Control Our Economy and What We Can Do About It Archived 2 June 2022 at the Wayback Machine, 23 November 2020
+ "World Economic Outlook Database, April 2022". IMF.org. International Monetary Fund. April 2022. Archived from the original on April 19, 2022. Retrieved April 19, 2022.
+ BlackRock Financials (PDF), 2018, archived from the original (PDF) on April 1, 2019, retrieved April 1, 2019
+ "BlackRock: assets under management 2024". Statista. Retrieved November 30, 2024.
+ "Investors weigh up Merrill's deal with BlackRock". Financial Times. February 20, 2006. Archived from the original on October 7, 2021. Retrieved July 29, 2020.
+ "BlackRock Acquires the Helix Financial Group LLC Business". www.businesswire.com. January 19, 2010. Archived from the original on May 1, 2022. Retrieved July 30, 2020.
+ "BlackRock buys Helix Financial Group". The Economic Times. Archived from the original on January 29, 2021. Retrieved July 30, 2020.
+ "Blackrock Acquires FutureAdvisor For $150M To Pivot B2B". August 27, 2015. Archived from the original on January 19, 2022. Retrieved July 29, 2020.
+ "BlackRock to acquire robo-adviser". Reuters. August 26, 2015. Archived from the original on January 21, 2022. Retrieved July 29, 2020.
+ "BlackRock Closes Transaction to Transfer $80 Billion of Client Assets from BofA® Global Capital Management" (Press release). Business Wire. April 18, 2016. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "BlackRock Acquires Energy Infrastructure Franchise from First Reserve" (Press release). First Reserve Corporation. February 1, 2017. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "BlackRock Completes Acquisition of Cachematrix". BlackRock. Archived from the original on April 27, 2022. Retrieved July 29, 2020.
+ "BlackRock says to buy private credit investor Tennenbaum Capital". Reuters. April 17, 2018. Archived from the original on May 3, 2022. Retrieved July 29, 2020.
+ "BlackRock to pay $350m for Citibanamex's AM arm". Citywire. Archived from the original on January 28, 2021. Retrieved July 29, 2020.
+ "BlackRock Completes Acquisition of Asset Management Business of Citibanamex". BlackRock. Archived from the original on April 18, 2022. Retrieved July 29, 2020.
+ "BlackRock Completes Acquisition of eFront" (Press release). eFront. May 10, 2019. Archived from the original on April 8, 2023. Retrieved April 7, 2023.
+ "BlackRock to Acquire eFront" (Press release). eFront. March 22, 2019. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "BlackRock Completes Acquisition of Aperio" (Press release). Business Wire. February 1, 2021. Archived from the original on April 7, 2023. Retrieved April 7, 2023 – via Nasdaq.
+ Kumar, Arunima (November 23, 2020). "BlackRock to buy Aperio for $1.05 billion from Golden Gate Capital, employees". Reuters. Archived from the original on April 7, 2023. Retrieved April 7, 2023.
+ "BlackRock grows private credit business with Kreos acquisition". Financial Times. June 8, 2023. Archived from the original on June 9, 2023. Retrieved June 9, 2023.
+ "BlackRock Buys Preqin for $3.2 Billion in Private Data Expansion". Bloomberg. July 1, 2024.
+ Platt, Eric (December 3, 2024). "BlackRock agrees to buy investment firm HPS in $12bn deal". Financial Times. Retrieved December 3, 2024.
+ Henderson, Richard; Noonan, Laura; Fontanella-Khan, James (May 11, 2020). "BlackRock's largest shareholder sells 22% stake". Financial Times. Retrieved August 19, 2024.
+ "BlackRock, Inc. Common Stock (BLK) Institutional Holdings". Nasdaq (in German). Retrieved November 12, 2024.
+ "Die grösste Schattenbank der Welt". Basler Zeitung. November 20, 2012. Archived from the original on December 10, 2021. Retrieved November 30, 2016.
+ Aronoff, Kate (June 26, 2020). "Is BlackRock the New Vampire Squid?". The New Republic. Archived from the original on May 27, 2022. Retrieved December 30, 2020.
+ Cox, Jeff (March 24, 2021). "Yellen supports banks' share buybacks. Sen. Warren wants BlackRock designated too big to fail". CNBC. Archived from the original on May 1, 2022. Retrieved March 25, 2021.
+ Fichtner, Jan; Heemskerk, Eelke M.; Garcia-Bernardo, Javier (2017). "Hidden power of the Big Three? Passive index funds, re-concentration of corporate ownership, and new financial risk". Business and Politics. 19 (2): 298–326. doi:10.1017/bap.2017.6.
+ "Who owns big business: the rise of passive investors (@uvaCORPNET)". YouTube. November 3, 2016. Archived from the original on December 21, 2021.
+ "BlackRock – The company that owns the world? (Investigate Europe)". YouTube. May 10, 2018. Archived from the original on December 21, 2021.
+ "Fact Check-Video claiming BlackRock and Vanguard 'own all the biggest corporations in the world' is missing context". Reuters. April 20, 2022. Archived from the original on June 6, 2023.
+ "BlackRock Increases Position in Fox Corporation (FOXA)". Nasdaq. February 1, 2023. Retrieved July 6, 2025.
+ "Does BlackRock Own Both Fox News and Dominion Voting Systems?". Snopes. April 27, 2023. Archived from the original on April 27, 2023. Retrieved April 27, 2023.
+ "Facebook posts". Archived from the original on April 27, 2023. Retrieved April 27, 2023.
+ "'COVID agenda is Jewish': Antisemitic flyer found at Melbourne synagogue". The Jerusalem Post. July 16, 2022. Archived from the original on April 27, 2023. Retrieved April 27, 2023.
+ "When sky-high executive pay is a case of common ownership". IESE Insight. Retrieved June 6, 2024.
+ "Why the presence of common shareholders in rival companies looms as a threat". IESE Insight. Retrieved June 6, 2024.
+ BlackRock, Inc. (February 28, 2024). Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (Report). U.S. Securities and Exchange Commission. Retrieved August 13, 2025.
+ "BlackRock stakes claim on 'sustainable investing' revolution". Financial Times. October 22, 2018. Archived from the original on November 3, 2018. Retrieved November 3, 2018. BlackRock intends to become a global leader in "sustainable investing", says Larry Fink, as the world's largest asset manager launched
+ Chasan, Emily (October 10, 2017). "BlackRock Names Former Obama Aide to Run Sustainable Investing". Bloomberg. Archived from the original on May 6, 2022. Retrieved November 3, 2018.
+ Jarsh, Melissa; Chasan, Emily (June 13, 2018). "BlackRock, Wells Fargo Are Betting on Ethical Investing Funds for 401(k)s". Bloomberg. Archived from the original on February 27, 2020. Retrieved November 3, 2018.
+ Camilla Giannoni (October 19, 2018). "BlackRock hires new Switzerland CEO". Archived from the original on January 29, 2021. Retrieved November 3, 2018. deepen our commitment to clients in Switzerland and broaden our sustainable investing footprint in Europe
+ Gruber, Angelika (October 19, 2018). "Independent Capital's Staub-Bisang to run BlackRock Switzerland". Reuters. Archived from the original on October 31, 2020. Retrieved November 3, 2018.
+ Tarek Soliman (June 1, 2017). "The new normal: Exxon shareholders vote in favour of climate action". Archived from the original on January 29, 2021. Retrieved November 3, 2018.
+ Gary McWilliams (May 31, 2017). "Exxon shareholders approve climate impact report in win for activists". Reuters. Archived from the original on May 7, 2021. Retrieved November 3, 2018.
+ Winston, Andrew (January 19, 2018). "Does Wall Street Finally Care About Sustainability?". Harvard Business Review. Archived from the original on May 1, 2022. Retrieved November 3, 2018.
+ Chasan, Emily (November 3, 2018). "BlackRock Is Sick of Excuses for Corporate Boards Lacking Women". Bloomberg. Retrieved November 3, 2018.
+ Amaro, Silvia (August 24, 2021). "Blackrock's former sustainable investing chief now thinks ESG is a 'dangerous placebo'". CNBC. Archived from the original on June 3, 2022. Retrieved October 26, 2021.
+ The Editorial Board (October 24, 2021). "Opinion: BlackRock's Wish Is Your Command". The Wall Street Journal. Archived from the original on February 2, 2022. Retrieved October 26, 2021.
+ Meredith, Sam (January 18, 2022). "BlackRock CEO Larry Fink says stakeholder capitalism is not 'woke'". CNBC. Archived from the original on May 11, 2022. Retrieved January 18, 2022.
+ Brush, Silla; Ward, Russell (January 17, 2022). "BlackRock CEO Says Stakeholder Capitalism Isn't 'Woke'". Bloomberg News. Archived from the original on January 18, 2022. Retrieved January 18, 2022.
+ Sorkin, Andrew Ross; Karaian, Jason; Kessler, Sarah; Gandel, Stephen; de la Merced, Michael J.; Hirsch, Lauren; Livni, Ephrat (January 18, 2022). "Larry Fink Defends Stakeholder Capitalism". The New York Times. Archived from the original on June 6, 2022. Retrieved January 18, 2022.
+ Frank, John (June 26, 2023). "Larry Fink "ashamed" to be part of ESG political debate". Axios. Archived from the original on June 26, 2023. Retrieved June 26, 2023.
+ Masters, Brooke (July 17, 2023). "BlackRock offers a vote to retail investors in its biggest ETF". Financial Times. Archived from the original on July 17, 2023. Retrieved July 17, 2023.
+ "BlackRock's False Voting 'Choice'". The Wall Street Journal. July 24, 2023. Archived from the original on July 25, 2023. Retrieved July 25, 2023.
+ "New Research Reveals the Banks and Investors Financing the Expansion of the Global Coal Plant Fleet". Urgewald. December 5, 2018. Archived from the original on April 23, 2022. Retrieved December 14, 2018.
+ "New report confirms BlackRock's big fossil fuel problem". Friends of the Earth. December 10, 2018. Archived from the original on April 9, 2022. Retrieved December 14, 2018.
+ "New Campaign Is Calling Out BlackRock's Big Climate Problem". Sierra Club. October 5, 2018. Archived from the original on May 1, 2022. Retrieved January 24, 2019.
+ "BlackRock Targeted as Largest Driver of Climate Destruction in New Campaign". Amazon Watch. September 27, 2018. Archived from the original on April 9, 2022. Retrieved January 24, 2019.
+ "BlackRock's Big Problem- Making the climate crisis worse". BlackRock's Big Problem. Archived from the original on June 5, 2022. Retrieved January 24, 2019.
+ Hammond, Holly; McIntyre, Iain (March 9, 2022). ""You can't eat money": An interview with Extinction Rebellion activist Jo Flanagan". The Commons Social Change Library. Archived from the original on October 2, 2023. Retrieved October 23, 2023.
+ Sebag, Gaspard (February 10, 2020). "BlackRock's Paris Office Barricaded by Climate Activists". Bloomberg News. Archived from the original on November 26, 2020. Retrieved February 10, 2020.
+ "World's biggest investor accused of dragging feet on climate crisis". May 21, 2019. Archived from the original on February 5, 2022. Retrieved May 21, 2019.
+ Sorkin, Andrew Ross (January 14, 2020). "BlackRock C.E.O. Larry Fink: Climate Crisis Will Reshape Finance". The New York Times. ISSN 0362-4331. Archived from the original on May 25, 2022. Retrieved January 16, 2020.
+ GANDEL, STEPHEN (January 14, 2020). "BlackRock to sell $500 million in coal investments in climate change push". CBS News. Archived from the original on May 6, 2022. Retrieved January 16, 2020.
+ Cook, Jackie (September 28, 2020). "How Big Fund Families Voted on Climate Change: 2020 Edition". Morningstar, Inc. Archived from the original on April 9, 2022. Retrieved October 20, 2020.
+ Gandel, Stephen (March 2, 2020). "Investment giant BlackRock faces critics on climate change, Amazon deforestation". CBS News. Archived from the original on December 31, 2020. Retrieved December 30, 2020.
+ Greenfield, Patrick (October 12, 2019). "World's Top Three Asset Managers Oversee $300bn Fossil Fuel Investments". The Guardian. Archived from the original on December 31, 2020. Retrieved December 30, 2020.
+ "The sweeping change of net zero emissions". IESE Insight. Retrieved June 6, 2024.
+ Naef, Alain (January 1, 2024), Jay Choi, J.; Kim, Jimi (eds.), "Fossil-Washing? The Fossil Fuel Investment of ESG Funds", Responsible Firms: CSR, ESG, and Global Sustainability, International Finance Review, vol. 23, Emerald Publishing Limited, pp. 137–146, doi:10.1108/s1569-376720240000023007, ISBN 978-1-83753-963-5, retrieved January 27, 2025
+ Marcius, Chelsia Rose; Schapiro, Rich (May 23, 2018). "Anti-gun protesters rally outside BlackRock shareholder meeting to condemn its Sturm Ruger investments". New York Daily News. Archived from the original on May 1, 2022. Retrieved November 3, 2019.
+ Moyer, Liz (April 5, 2018). "BlackRock to offer new funds that exclude stocks of gun makers and retailers including Walmart". CNBC. Archived from the original on February 10, 2021. Retrieved April 3, 2019.
+ Gibson, Kate (April 5, 2018). "BlackRock unveils line of gun-free investment products". CBS News. Archived from the original on January 29, 2021. Retrieved April 3, 2019.
+ Siegel, Rachel (April 6, 2018). "BlackRock unveils gun-free investment options". The Washington Post. Archived from the original on April 3, 2019. Retrieved April 3, 2019.
+ "European Ombudsman". Europa. November 23, 2020. Archived from the original on November 30, 2020. Retrieved September 23, 2020.
+ "The Commission's decision to award a contract to BlackRock to oversee the development of ESG factors in the EU banking sector and corporate investment policies". Europa. April 20, 2020. Archived from the original on May 1, 2022. Retrieved September 23, 2020.
+ Schroeder, Pete (June 14, 2022). "West Virginia threatens to bar big banks, BlackRock over perceived fossil fuel boycotts". Reuters. Archived from the original on June 17, 2022. Retrieved June 17, 2022.
+ Nishant, Niket; Bedi, Mehr (October 5, 2022). "Louisiana to remove $794 mln from BlackRock funds over ESG drive". Reuters. Archived from the original on March 30, 2023. Retrieved April 7, 2023.
+ Folmar, Chloe (December 2, 2022). "Florida pulls $2B worth of investments from BlackRock over ESG investment after DeSantis resolution". The Hill. Archived from the original on December 4, 2022. Retrieved December 4, 2022.
+ "Florida to pull $2bn from BlackRock in spreading ESG backlash". Financial Times. December 1, 2022. Archived from the original on December 4, 2022. Retrieved December 4, 2022.
+ Kerber, Ross (December 1, 2022). "Florida pulls $2 bln from BlackRock in largest anti-ESG divestment". Reuters. Archived from the original on December 4, 2022. Retrieved December 4, 2022.
+ Chandler, Clay; Gordon, Nicholas (September 9, 2021). "BlackRock is 'blundering' in China—all the way to the bank". Fortune. Archived from the original on January 9, 2022. Retrieved October 25, 2021.
+ Madhok, Diksha (September 8, 2021). "Chinese investors pour $1 billion into BlackRock's new fund". CNN. Archived from the original on February 13, 2022. Retrieved October 25, 2021.
+ "BlackRock's China unit raises $1 bln in maiden mutual fund". Reuters. September 8, 2021. Archived from the original on January 20, 2022. Retrieved October 25, 2021.
+ Meredith, Sam (September 8, 2021). "BlackRock responds to George Soros' criticism over China investments". CNBC. Archived from the original on April 11, 2022. Retrieved October 25, 2021.
+ Soros, George (September 6, 2021). "Opinion: BlackRock's China Blunder". The Wall Street Journal. ISSN 0099-9660. Archived from the original on June 9, 2022. Retrieved March 24, 2022.
+ Rapoza, Kenneth (October 27, 2021). "BlackRock's China Relationship Target In Nationwide Ad Campaign". Forbes. Archived from the original on May 5, 2022. Retrieved October 27, 2021.
+ "New Campaign Against 'Woke Companies' Slams Them for Not Being Woke Enough". Reason.com. May 19, 2021. Archived from the original on July 23, 2021. Retrieved July 22, 2021.
+ "Nonprofit Warns Governors About BlackRock Retirement Funds' Chinese Investments". fa-mag.com. December 3, 2021. Archived from the original on May 1, 2022. Retrieved December 12, 2021.
+ Suter, Tara (August 1, 2023). "House China committee launches probe into investment firm BlackRock". The Hill. Archived from the original on August 2, 2023. Retrieved August 2, 2023.
+ O’Keeffe, Kate; Driebusch, Corrie (August 1, 2023). "BlackRock, MSCI Face Congressional Probes for Facilitating China Investments". The Wall Street Journal. ISSN 0099-9660. Archived from the original on August 1, 2023. Retrieved August 2, 2023.
+ Quinn, Jimmy (August 3, 2023). "House Committee: BlackRock Has Funneled over $429 Million to Blacklisted Chinese Firms". National Review. Archived from the original on September 5, 2023. Retrieved September 5, 2023.
+ Biswas, Pritam; Yasmin, Mehnaz (April 18, 2024). "US firms channeled funds to blacklisted Chinese companies, says House panel". Reuters. Retrieved April 18, 2024.
+ "Top US asset managers face scrutiny from Republican state AGs over China funds". Reuters. February 6, 2025. Retrieved February 6, 2025.
+ Leslie P. Norton. BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs Archived 16 January 2021 at the Wayback Machine, Barron's, 1 June 2020
+ Richard Henderson and Robin Wigglesworth. Fed's big boost for BlackRock raises eyebrows on Wall Street Archived 24 December 2020 at the Wayback Machine, Financial Times, 27 March 2020
+ Richard Henderson and Robin Wigglesworth. BlackRock's growing clout carries risks for asset manager: Group faces increased scrutiny as central banks ask it to help run stimulus packages Archived 4 January 2021 at the Wayback Machine, Financial Times, 30 April 2020
+ "BlackRock trounces ETF rivals after Fed appointment". Financial Times. May 20, 2020. Archived from the original on February 18, 2023. Retrieved February 18, 2023.
+ New York Times 3/27/2020
+ Cox, Jeff (January 20, 2026). "Bessent says Trump's pick for the next Fed chair could happen next week". CNBC. Retrieved January 23, 2026.
+ "Board of Directors". ir.blackrock.com. Retrieved June 3, 2025.
+ De La Merced, Michael J. (April 6, 2014). "BlackRock Elevates Executives in Succession Planning Move". The New York Times. Archived from the original on October 28, 2021. Retrieved October 26, 2021.
+ Lin, Ed. "BlackRock Co-Founder Susan Wagner Sells Stock". www.barrons.com. Archived from the original on October 26, 2021. Retrieved October 26, 2021.
+ Schwartz, Brian (March 20, 2021). "Biden's closest advisors have ties to big business and Wall Street with some making millions". CNBC. Archived from the original on May 30, 2022. Retrieved March 27, 2021.
+ Blackrocks Blake Grossman will leave Firm one year after BGI Acquisition Archived 8 January 2015 at the Wayback Machine January 2011, bloomberg.com. Retrieved February 2011
+Further reading
+Brooker, Katrina (October 29, 2008). "Can this man save Wall Street?". Fortune.
+Foley, Stephen (April 2, 2017). "BlackRock's active funds navigate rough seas". Financial Times. Retrieved May 10, 2017.
+Ungarino, Rebecca (December 30, 2020). "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration". Business Insider.
+External links
+logo
+Wikimedia Commons has media related to BlackRock, Inc..
+Official website Edit this at Wikidata
+Business data for BlackRock, Inc.: GoogleReutersSEC filingsYahoo!
+vte
+BlackRock
+Links to related articles
+Authority control databases Edit this at Wikidata
+Categories: BlackRock1988 establishments in New York City1999 initial public offeringsCompanies based in ManhattanCompanies listed on the New York Stock ExchangeInvestment companies based in New York CityFinancial services companies established in 1988Investment management companies of the United StatesMultinational companies based in New York CityPublicly traded companies based in New York CityExchange-traded fundsAsset management companies

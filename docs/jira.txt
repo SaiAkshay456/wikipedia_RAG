@@ -1,0 +1,135 @@
+Jira
+Developer Atlassian
+Written in Java
+Operating system Cross-platform
+Type Bug tracking system,
+project management
+software
+License Proprietary
+Website www.atlassian.com
+/software/jira (https://www.
+atlassian.com/software/jir
+a)
+Jira (software)
+Jira (/ˈdʒiːrə/ JEE-rə)
+[4]
+is a software product
+developed by Atlassian that allows bug tracking, issue
+tracking and agile project management. Jira is used by
+a large number of clients and users globally for project,
+time, requirements, task, bug, change, code, test,
+release, sprint management.
+The product name comes from the last two syllables of
+Gojira, the Japanese name for Godzilla[5] as well as
+the name of the 1998 version and suffix. The name
+originated from a nickname Atlassian developers used
+to refer to Bugzilla, which was previously used
+internally for bug-tracking.[5]
+According to Atlassian, Jira is used for issue tracking
+and project management.[6] Some of the organizations
+that have used Jira at some point in time for bugtracking and project management include Fedora
+Commons,
+[7] Hibernate,
+[8] and the Apache Software Foundation, which uses both Jira and Bugzilla.[9]
+Jira includes tools allowing migration from competitor Bugzilla.[10]
+Jira is offered in three packages:[11]
+Jira Software includes the base software, including agile project management features
+(previously a separate product: Jira Agile).
+Jira Service Management is intended for use by IT operations or business service desks.
+Jira Align is intended for strategic product and portfolio management.
+Jira is written in Java and uses the Pico inversion of control container, Apache OFBiz entity engine, and
+WebWork 1 technology stack. For remote procedure calls (RPCs), Jira has REST, SOAP, and XML-RPC
+interfaces.[12]
+Jira integrates with source control programs such as Clearcase, Concurrent Versions
+System (CVS), Git, Mercurial, Perforce,
+[13] Subversion,
+[14] and Team Foundation Server. It ships with
+various translations including English, French, German, Japanese, and Spanish.[15]
+Jira implements the Networked Help Desk API for sharing customer support tickets with other issue
+tracking systems.[16]
+Naming
+Description
+Jira is a commercial software product that can be licensed for running on-premises or available as a
+hosted application.[17]
+Atlassian provides Jira for free to open source projects meeting certain criteria, and to organizations that
+are non-academic, non-commercial, non-governmental, non-political, non-profit, and secular. The full
+source code is available for its users to modify under a developer source license.[17]
+In April 2010, a cross-site scripting vulnerability in Jira led to the compromise of two Apache Software
+Foundation servers. The Jira password database was also compromised. The database contained unsalted
+password hashes, which are vulnerable to rainbow attacks, dictionary lookups and cracking tools. Apache
+advised users to change their passwords.
+[18] Atlassian themselves were also targeted as part of the same
+attack and admitted that a legacy database with passwords stored in plain text had been compromised.[19]
+When launched in 2002, Jira was purely issue tracking software, targeted at software developers. The app
+was later adopted by non-IT organizations as a project management tool. The process accelerated after the
+launch of Atlassian Marketplace in 2012, which allowed third-party developers to offer project
+management plugins for Jira.[20] BigPicture, Scriptrunner, Advanced Roadmaps (formerly Portfolio),
+Structure, Tempo Planner, and ActivityTimeline[21][22]
+ are major project management plugins for Jira.[23]
+Computer
+programming portal
+Comparison of issue-tracking systems
+Comparison of project management software
+List of collaborative software
+1. "Jira" (https://www.atlassian.com/software/jira). Atlassian.com. Retrieved 8 September 2020.
+2. "About us" (https://www.atlassian.com/company/). Atlassian.com official website. Retrieved
+27 February 2012.
+3. "Jira Software 10.1.x release notes" (https://confluence.atlassian.com/jirasoftware/jira-softw
+are-10-1-x-release-notes-1431966268.html).
+4. "How is JIRA pronounced?" (https://confluence.atlassian.com/pages/viewpage.action?pageI
+d=223219971). Atlassian.com official website. Retrieved 8 April 2019.
+License
+Security
+Evolution
+See also
+References
+5. "What does JIRA mean?" (https://confluence.atlassian.com/pages/viewpage.action?pageId=
+223219957). Atlassian.com official website. Retrieved 5 November 2019.
+6. "Customers" (https://www.atlassian.com/company/customers). Atlassian.com official
+website. Retrieved 2 December 2020.
+7. "Fedora Repository Project" (https://web.archive.org/web/20180822213753/https://jira.duras
+pace.org/browse/FCREPO). DuraSpace. Archived from the original (https://jira.duraspace.or
+g/browse/FCREPO) on 22 August 2018. Retrieved 28 January 2014.
+8. "Hibernate Home page" (http://hibernate.org). Retrieved 10 May 2018.
+9. "Issues.Apache.org" (https://issues.apache.org/). The Apache Software Foundation.
+Retrieved 15 September 2011.
+10. "ApacheJira" (https://web.archive.org/web/20190706010635/https://wiki.apache.org/general/
+ApacheJira). Apache.org. Archived from the original (https://wiki.apache.org/general/Apache
+Jira) on 6 July 2019. Retrieved 25 September 2008.
+11. "Jira Overview" (https://www.atlassian.com/software/jira/guides/getting-started/overview#ab
+out-the-jira-platform). Atlassian.com official website. Retrieved 20 April 2020.
+12. "JIRA RPC Services" (https://developer.atlassian.com/display/JIRADEV/JIRA+RPC+Service
+s). Atlassian.com official website. 21 October 2011. Retrieved 3 January 2012.
+13. "Integrating with Development Tools" (https://confluence.atlassian.com/display/JIRA/Integrati
+ng+with+a+Source+Control+System). Atlassian.com official website.
+14. "Subversion JIRA plugin" (https://web.archive.org/web/20130127024555/https://studio.plugin
+s.atlassian.com/wiki/display/SVN/Subversion%2BJIRA%2Bplugin). Atlassian.com official
+website. 18 July 2012. Archived from the original (https://studio.plugins.atlassian.com/wiki/di
+splay/SVN/Subversion+JIRA+plugin) on 27 January 2013. Retrieved 23 July 2012.
+15. "Choosing a Default Language" (https://confluence.atlassian.com/display/JIRA/Choosing+a
++Default+Language). Atlassian.com official website. Retrieved 13 October 2011.
+16. Latkiewicz, Matthew (7 June 2011). "Zendesk's JIRA Integration Rocks!" (https://www.zende
+sk.com/blog/zendesks-jira-integration-rocks). Retrieved 6 May 2016.
+17. "Licensing and Pricing" (https://web.archive.org/web/20110714193013/http://www.atlassian.
+com/software/jira/licensing.jsp). Atlassian.com official website. Archived from the original (htt
+ps://www.atlassian.com/software/jira/licensing.jsp) on 14 July 2011. Retrieved 10 July 2011.
+18. Golucci, Philip (13 April 2010). "apache.org incident report for 04/09/2010" (https://blogs.apa
+che.org/infra/entry/apache_org_04_09_2010). Apache Software Foundation. Retrieved
+29 May 2013.
+19. Cannon-Brookes, Mike (13 April 2010). "Oh man, what a day! An update on our security
+breach" (https://blogs.atlassian.com/2010/04/oh_man_what_a_day_an_update_on_our_sec
+urity_breach/). Atlassian Blogs – Atlassian.com official website. Atlassian. Retrieved 29 May
+2013.
+20. "Atlassian Launches A Marketplace For Project Management Add-Ons – TechCrunch" (http
+s://techcrunch.com/2012/05/30/atlassian-marketplace/). techcrunch.com. 30 May 2012.
+Retrieved 2 July 2018.
+21. "Resource Planning in Jira: Top 7 apps on the Marketplace" (https://reliex.com/blog/resource
+-planning-in-jira-top-7-apps-on-the-marketplace/). Reliex. 12 February 2020. Retrieved
+28 October 2021.
+22. "Resource Planning & Timesheets for Jira | ActivityTimeline" (https://activitytimeline.com/).
+activitytimeline.com. Retrieved 16 August 2022.
+23. "Jira Project Management Tool. Compare "big 4" | SoftwarePlant" (https://softwareplant.com/
+jira-project-management-tool/). SoftwarePlant.com. 24 March 2018. Retrieved 2 July 2018.
+Official website (https://atlassian.com/software/jira)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Jira_(software)&oldid=1343876906"
+External links
