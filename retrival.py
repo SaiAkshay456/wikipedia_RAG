@@ -1,6 +1,7 @@
 import os
 from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_text_splitters import CharacterTextSplitter
+from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
@@ -13,8 +14,37 @@ point_chroma=Chroma(
 )
 
 retriver=point_chroma.as_retriever(search_kwargs={"k":3})
+query = "how many founders of blackrock?"
+relevant_docs=retriver.invoke(query)
+# for i in range(0,3):
+#     print(f"Document {i+1}")
+#     print(f"{relevant_docs[i].page_content}")
 
-relevant_docs=retriver.invoke("In which year netflix established or started?")
-for i in range(0,3):
-    print(f"Document {i+1}")
-    print(f"{relevant_docs[i].page_content}")
+context = "\n\n".join([doc.page_content for doc in relevant_docs])
+
+prompt = f"""
+You are a question answering system.
+
+Rules:
+1. Answer ONLY using the information provided in the context.
+2. Do NOT use any external knowledge.
+3. If the answer is not present in the context, say exactly:
+   "I don't have relevant information."
+
+Context:
+{context}
+
+Question:
+{query}
+
+Answer:
+"""
+
+llm = ChatOpenAI(
+    model="gpt-4o-mini",
+    openai_api_key=os.getenv("OPENAI_API_KEY")
+)
+
+response = llm.invoke(prompt)
+
+print(response.content)
